@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+h1{
+	font:32px Verdana, Geneva, sans-serif;
+ 	color:#C00;
+	background:#666;
+	}
+
+@media screen and (min-width: 200px) and (max-width: 240px)
+{}
+
+
+@media screen and (min-width: 241px) and (max-width: 320px)
+{}
+
+
+@media screen and (min-width: 321px) and (max-width: 360px)
+{}
+
+@media screen and (min-width: 533px) and (max-width: 603px)
+{}
+
+@media screen and (min-width: 768px) and (max-width: 800px)
+{}
+
+@media screen and (min-width: 980px) and (max-width: 1024px)
+{}
+
+@media screen and (min-width: 1280px) and (max-width: 1440px)
+{}
+
+@media screen and (min-width: 1280px) and (max-width: 1440px)
+{}
+
+@media screen and (min-width: 1920px) and (max-width: 2240px)
+{}
+

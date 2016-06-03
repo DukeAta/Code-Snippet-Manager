@@ -1,0 +1,83 @@
+.codtitle{ font-size:14px; color:#4089C8; font-weight:bold;}
+.btn{ color:fff !important;}
+
+html, body, div, h1, h2, h3, h4, h5, h6, ul, ol, dl, li, dt, dd, p, blockquote,  
+pre, form, fieldset, table, th, td { margin: 0; padding: 0; }  
+  
+body {  
+font-size: 14px;  
+line-height:1.3em;  
+}  
+  
+a, a:visited {  
+outline:none;  
+color:#7d5f1e;  
+}  
+  
+.clear {  
+clear:both;  
+}  
+  
+#wrapper {  
+ width:480px;  
+ margin:0px auto;  
+ padding:15px 0px;  
+}  
+  
+.comment {  
+ padding:5px;  
+ border:2px solid #DDDDDD;  
+ margin-top:15px;  
+ list-style:none;
+ border-radius:25px 25px 0px 25px;
+}  
+  
+.aut {  
+  background-color: #006ab6;
+    border-radius: 10px 10px 0;
+    color: #ffffff;
+    font-weight: bold;
+    height: 26px;
+    margin: 2px 0 0;
+    padding: 3px 0 0 12px;
+    width: 160px;
+}  
+  
+.timestamp {
+    font-size: 85%;
+    margin: 9px 0px 5px 9px;  
+}  
+  
+#comment_form {  
+ margin-top:15px;  
+ margin-left: 16px;
+} 
+.reply{
+	 margin: 0px 0px 0px 18px ;
+} 
+  
+#comment_form input {  
+ font-size:1.2em;  
+ margin:0 0 10px;  
+ padding:3px;  
+ display:block;  
+ width:100%;  
+}  
+  
+#comment_body {  
+    border: 1px solid #3D86C5;
+    border-radius: 12px;
+    display: block; padding:10px !important;
+    height: 150px;
+    width: 100%;
+}
+  
+#submit_button {  
+    clear: both;
+    margin-top: 20px;
+    text-align: center;
+    width: 16%;
+}
+.commentbody {
+    margin: 10px 5px 5px 20px;
+}
